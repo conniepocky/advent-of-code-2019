@@ -1,6 +1,6 @@
 (ns day2-code.core
   (:require [clojure.string :as str]
-            [clojure/core.matrix :as matrix]))
+            [clojure.core.matrix :as matrix]))
 
 
 (def data "dghfbsyiznoumojleevappwqtr
